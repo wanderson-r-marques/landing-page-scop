@@ -30,6 +30,8 @@
     <?php include 'includes/separador.php'; ?>
     <?php include 'includes/metricas.php'; ?>
     <?php include 'includes/separador.php'; ?>
+    <?php include 'includes/faq.php'; ?>
+    <?php include 'includes/separador.php'; ?>
     <?php include 'includes/testemunhos.php'; ?>
     <?php include 'includes/separador.php'; ?>
     <?php include 'includes/footer.php'; ?>
