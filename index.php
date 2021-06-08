@@ -20,7 +20,7 @@
     <?php include 'includes/separador.php'; ?>
     <?php include 'includes/quem-somos.php'; ?>
     <?php include 'includes/separador.php'; ?>
-    <?php include 'includes/espertise.php'; ?>
+    <?php include 'includes/expertise.php'; ?>
     <?php include 'includes/separador.php'; ?>
     <?php include 'includes/pq-escolher-nos.php'; ?>
     <?php include 'includes/separador.php'; ?>

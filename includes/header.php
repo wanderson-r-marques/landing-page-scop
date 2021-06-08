@@ -14,24 +14,17 @@
             <div class="navbar uk-navbar-right">
                 <nav class="uk-navbar-container" data-uk-scrollspy-nav="offset: 0; closest: li; scroll: true">
                     <ul class="uk-navbar-nav">
-                        <li class="uk-active"><a href="#home">Home</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#team">Team</a></li>
-                        <li><a href="#testimonials">Feedback</a></li>
-                        <li><a href="#blog">Blog</a></li>
+                        <li class="uk-active"><a href="#home">Principal</a></li>
+                        <li><a href="#about">Quem somos</a></li>
+                        <li><a href="#team">Metodologia</a></li>
+                        <li><a href="#transparencia">Transparência</a></li>
+                        <li><a href="#services">Serviços</a></li>
+                        <li><a href="#testimonials">Depoimentos</a></li>
+                        <li><a href="#faq">FAQ</a></li>
+                        <li><a href="#">Contato</a></li>
                     </ul>
                 </nav>
-                <div class="lang">
-                    <form>
-                        <div>
-                            <select>
-                                <option value="eng">En</option>
-                                <option value="ge">Ge</option>
-                            </select>
-                        </div>
-                    </form>
-                </div>
+
             </div>
         </div>
     </div>

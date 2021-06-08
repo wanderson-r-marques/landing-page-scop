@@ -1,4 +1,4 @@
-<section class="why-choose-us-section uk-why-choose-us uk-section">
+<section id="transparencia" class="why-choose-us-section uk-why-choose-us uk-section">
     <div class="uk-grid uk-grid-match uk-grid-medium uk-child-width-1-2@m uk-child-width-1-2@s">
         <div class="item">
             <div class="why-choose-us-content">

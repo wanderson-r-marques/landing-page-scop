@@ -1,4 +1,4 @@
-<section class="services-details-area uk-services-details uk-section">
+<section id="faq" class="services-details-area uk-services-details uk-section">
     <div class="uk-container">
         <article class="uk-article services-details">
             <div class="uk-grid uk-flex">
