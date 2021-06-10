@@ -17,6 +17,8 @@
 
     <!-- Stylesheets
 	============================================= -->
+    <link rel="stylesheet" href="css/style2.css">
+
     <link href="css/css-assets.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
@@ -685,62 +687,7 @@
                                             </div><!-- .testimonial-single-1 -->
                                         </div><!-- .slide end -->
                                     </li>
-                                    <li>
-                                        <div class="slide">
-                                            <div class="testimonial-single-1">
-                                                <div class="ts-content">
-                                                    Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad
-                                                    litora
-                                                    torquent per conubia.
-                                                    <span class="icon-quote">“</span>
-                                                </div><!-- .ts-content end -->
-                                                <div class="ts-person">
-                                                    <div class="ts-img">
-                                                        <img src="images/files/sliders/clients-testimonials/img-1.jpg" alt="">
-                                                    </div><!-- .ts-img end -->
-                                                    <div class="ts-name">
-                                                        <h4>Michael Smith</h4>
-                                                        <span>Backend Developer</span>
-                                                    </div><!-- .ts-name end -->
-                                                    <div class="rating">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div><!-- .rating end -->
-                                                </div><!-- .ts-person end -->
-                                            </div><!-- .testimonial-single-1 -->
-                                        </div><!-- .slide end -->
-                                    </li>
-                                    <li>
-                                        <div class="slide">
-                                            <div class="testimonial-single-1">
-                                                <div class="ts-content">
-                                                    Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad
-                                                    litora
-                                                    torquent per conubia.
-                                                    <span class="icon-quote">“</span>
-                                                </div><!-- .ts-content end -->
-                                                <div class="ts-person">
-                                                    <div class="ts-img">
-                                                        <img src="images/files/sliders/clients-testimonials/img-2.jpg" alt="">
-                                                    </div><!-- .ts-img end -->
-                                                    <div class="ts-name">
-                                                        <h4>Matt Nawski</h4>
-                                                        <span>UI Developer</span>
-                                                    </div><!-- .ts-name end -->
-                                                    <div class="rating">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div><!-- .rating end -->
-                                                </div><!-- .ts-person end -->
-                                            </div><!-- .testimonial-single-1 -->
-                                        </div><!-- .slide end -->
-                                    </li>
+
                                 </ul><!-- .slick-slider end -->
                             </div><!-- .slider-testimonials end -->
 
@@ -752,122 +699,147 @@
 
         </div><!-- .section-flat end -->
 
+        <!-- === Section Customers Testimonials 1 =========== -->
+        <div id="section-customers-testimonials-1" style="padding:0 50px;" class="section-flat">
+            <section class="services-details-area uk-services-details uk-section">
+                <div class="uk-container">
+                    <article class="uk-article services-details">
+                        <div class="uk-grid uk-flex">
+                            <div class="inner uk-width-expand">
+                                <div class="services-details-desc">
+                                    <h2>FAQ</h2>
 
-        <!-- === Section Pricing Plans 1 =========== -->
-        <div id="section-pricing-plans-1" class="section-flat" data-scroll-index="4">
+                                    <div class="our-work-benefits">
+                                        <ul class="accordion">
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Pra quem o serviço de Gestão de Tráfego é indicado?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Lorem ipsum dolor sit amet, consectetur
+                                                    Pra qualquer empresa que tenha o objetivo de receber mais visitas, conseguir mais clientes e aumentar a visibilidade da sua marca. O Facebook Ads funciona para qualquer negócio que siga sua Políticas de Publicidade
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Pra quem o serviço de Gestão de Tráfego NÃO é indicado?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Para empresários que acham que resultados grandiosos são feitos da noite para o dia. Meu trabalho é focado em resultados e sempre há um alinhamento de expectativas para que todas as metas do cliente sejam batidas.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Serve para Lançamentos de infoprodutos?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Sim, a dinâmica de um Lançamento é diferente mas os princípios do tráfego são os mesmos, levar pessoas interessadas para Blog de Lançamento ou para Página de Vendas.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Qual o valor mínimo de investimento em anúncios?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Eu trabalho com clientes que investem no mínimo R$ 600,00 por mês em anúncios, assim tenho um orçamento adequado para atingir os objetivos do cliente. Porém, conforme os resultados, o ideal é aumentar os investimentos para uma maior escala de resultados.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Tem algum tipo de contrato?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Eu acredito que parcerias duradouras têm um ponto em comum: ganha-ganha. Portanto não ofereço contrato jurídico para novos clientes, podendo haver o encerramento dos serviços prestados conforme a vontade de ambas as partes com base nos resultados obtidos com a parceria.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Tem alguma garantia de resultados?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Infelizmente não consigo garantir nenhum resultado, pois isso também depende do trabalho do cliente em ter um bom atendimento, preços competitivos e produtos de qualidade, etc. Mas isso tudo pode ser alinhado junto com o Gestor de Tráfego para identificar pontos fracos e corrigi-los para atingir os resultados do cliente.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    E se não der certo?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    A probabilidade é muito baixa, o Facebook e o Google são as melhores plataformas de anúncios do mundo. Eu trabalho com foco em resultados e por causa disso ofereço um período de experiência para novos clientes.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Como funciona o período de experiência?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    O risco é meu também, o período de experiência dura 30 dias, após este prazo, iremos analisar os resultados e se o cliente entender que não vale a pena continuar, eu devolvo metade do valor pago pelos meus serviços de Gestão de tráfego pago. Faço isso pois confio no meu trabalho e quero parcerias de longo prazo, com expectativas bem alinhadas e processos bem definidos.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Como funciona o pagamento?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    O pagamento dos serviços é mensal de forma pré-paga, após a confirmação do pagamento os serviços começam em até 48 horas úteis.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Já tentei anunciar e não obtive resultados, vale a pena tentar novamente?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Com certeza, existem muitos profissionais que não são especializados em tráfego pago e agências que cobram muito caro para manter uma estrutura que o cliente muitas vezes não utiliza por completo, o que acaba gerando frustrações por parte do anunciante. Gestão de tráfego é uma habilidade que muda constantemente e o profissional precisa se atualizar sempre.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Terei atendimento personalizado?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Sim, eu trabalho de forma independente com poucos clientes, o que me dá um contato direto com o cliente, diferente de grandes agências. Eu mesmo criarei as estratégias e as colocarei em prática, você terá contato direto com quem realmente coloca a mão na massa.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Quanto custa os serviços de Gestão de Tráfego?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Muito mais barato do que agências e com um atendimento personalizado. O preço varia de acordo com o investimento, prazos e complexidades dos projetos de cada cliente. Tenho planos a partir de R$ 500,00/mês.
+                                                </p>
+                                            </li>
+                                            <li class="accordion-item">
+                                                <a class="accordion-title" href="javascript:void(0)">
+                                                    <i class="icon">?</i>
+                                                    Como faço para contratar o Vinicius como Gestor de Tráfego?
+                                                </a>
+                                                <p class="accordion-content">
+                                                    Clique no botão abaixo e entre contato comigo diretamente pelo Whatsapp.
+                                                </p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
 
-            <div class="section-content">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-
-                            <div class="section-title text-center">
-                                <h2>
-                                    <span class="heading-200">Get Your Best Preferred and Suitable</span>
-                                    Pricing Plans and Options
-                                </h2>
-                                <p>
-                                    This should be used to tell a story and let your users know a little more about your
-                                    product or service. How can you benefit them?
-                                </p>
-                            </div><!-- .section-title end -->
-
-                        </div><!-- .col-md-8 end -->
-                        <div class="col-md-12">
-
-                            <div class="pricing-table">
-
-                                <div class="row">
-                                    <div class="col-md-4 col-sm-6">
-
-                                        <div class="pt-column">
-                                            <div class="pt-column-header">
-                                                <span class="icon icon-User"></span>
-                                                <div class="title">
-                                                    <span>Starter</span>
-                                                </div><!-- .title end -->
-                                                <div class="price">
-                                                    <h2>$249</h2>
-                                                    <span class="period">Per Month</span>
-                                                </div><!-- .price end -->
-                                                <a class="btn large colorful hover-dark rounded move-top" href="#">Get
-                                                    Started Now</a>
-                                            </div>
-                                            <ul class="pt-column-content">
-                                                <li>Marketing strategy <i class="fas fa-check-square"></i></li>
-                                                <li>Competitive analysis <i class="fas fa-check-square"></i></li>
-                                                <li>Social media audit <i class="fas fa-check-square"></i></li>
-                                                <li>Monthly management <i class="fas fa-check-square"></i></li>
-                                                <li>Unlimited data transfer <i class="fas fa-window-close"></i></li>
-                                            </ul><!-- .pt-column-content end -->
-                                        </div><!-- .pt-column end -->
-
-                                    </div><!-- .col-md-4 end -->
-                                    <div class="col-md-4 col-sm-6 mt-sm-50">
-
-                                        <div class="pt-column featured">
-                                            <div class="pt-column-header">
-                                                <span class="icon icon-Flag"></span>
-                                                <div class="title">
-                                                    <span>Professional</span>
-                                                </div><!-- .title end -->
-                                                <div class="price">
-                                                    <h2>$499</h2>
-                                                    <span class="period">Per Month</span>
-                                                </div><!-- .price end -->
-                                                <a class="btn large colorful hover-dark rounded move-top" href="#">Get
-                                                    Started Now</a>
-                                            </div>
-                                            <ul class="pt-column-content">
-                                                <li>Marketing strategy <i class="fas fa-check-square"></i></li>
-                                                <li>Competitive analysis <i class="fas fa-check-square"></i></li>
-                                                <li>Social media audit <i class="fas fa-check-square"></i></li>
-                                                <li>Monthly management <i class="fas fa-check-square"></i></li>
-                                                <li>Unlimited data transfer <i class="fas fa-check-square"></i></li>
-                                            </ul><!-- .pt-column-content end -->
-                                        </div><!-- .pt-column end -->
-
-                                    </div><!-- .col-md-4 end -->
-                                    <div class="col-md-4 col-sm-6 mt-md-50">
-
-                                        <div class="pt-column">
-                                            <div class="pt-column-header">
-                                                <span class="icon icon-Starship"></span>
-                                                <div class="title">
-                                                    <span>Enterprise</span>
-                                                </div><!-- .title end -->
-                                                <div class="price">
-                                                    <h2>$799</h2>
-                                                    <span class="period">Per Month</span>
-                                                </div><!-- .price end -->
-                                                <a class="btn large colorful hover-dark rounded move-top" href="#">Get
-                                                    Started Now</a>
-                                            </div>
-                                            <ul class="pt-column-content">
-                                                <li>Marketing strategy <i class="fas fa-check-square"></i></li>
-                                                <li>Competitive analysis <i class="fas fa-check-square"></i></li>
-                                                <li>Social media audit <i class="fas fa-check-square"></i></li>
-                                                <li>Monthly management <i class="fas fa-check-square"></i></li>
-                                                <li>Unlimited data transfer <i class="fas fa-check-square"></i></li>
-                                            </ul><!-- .pt-column-content end -->
-                                        </div><!-- .pt-column end -->
-
-                                    </div><!-- .col-md-4 end -->
-                                </div><!-- .row end -->
-
-                            </div><!-- .pricing-table end -->
-
-                        </div><!-- .col-md-12 end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-
-            </div><!-- .section-content end -->
-
-        </div><!-- .section-flat end -->
-
-
-
+                        </div>
+                    </article>
+                </div>
+            </section>
+        </div>
+        <br><br>
         <!-- === Section Clients 1 =========== -->
         <div id="section-clients-1" class="section-flat">
 
@@ -952,11 +924,11 @@
 
                             <div class="box-center">
                                 <div class="btn-row style-2 mt-md-50">
-                                    <a class="btn x-large colorful hover-dark rounded move-top" href="#">Let's Start</a>
+                                    <a class="btn x-large colorful hover-dark rounded move-top" href="#">Vamos começar?</a>
                                     <small>
-                                        We Hope to Listen
+                                        Esperamos ouvir
                                         <br>
-                                        From You Soon
+                                        você em breve
                                     </small>
                                 </div><!-- .btn-row end -->
                             </div><!-- .box-center end -->
@@ -977,26 +949,7 @@
 
                 <div class="footer-bar-wrap">
 
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
 
-                                <div class="fb-row">
-                                    <div class="copyrights-message">
-                                        <span>Copyright © 2020</span> <a href="javascript:;" target="_blank">Cloin.</a>
-                                        <span>All Rights Reserved.</span>
-                                    </div><!-- .copyrights-message end -->
-                                    <ul class="social-icons x4 grey-bg hover-colorful-bg animated rounded">
-                                        <li><a class="si-twitter" href="#"><i class="fa fa-twitter"></i><i class="fa fa-twitter"></i></a></li>
-                                        <li><a class="si-facebook" href="#"><i class="fa fa-facebook"></i><i class="fa fa-facebook"></i></a></li>
-                                        <li><a class="si-youtube" href="#"><i class="fa fa-youtube"></i><i class="fa fa-youtube"></i></a></li>
-                                    </ul><!-- .social-icons end -->
-
-                                </div><!-- .fb-row end -->
-
-                            </div><!-- .col-md-12 end -->
-                        </div><!-- .row end -->
-                    </div><!-- .container end -->
 
                 </div><!-- .footer-bar-wrap -->
 
@@ -1011,6 +964,10 @@
     <!-- External JavaScripts
 	============================================= -->
     <script src="js/jquery.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/magnific-popup.min.js"></script>
+    <script src="js/appear.min.js"></script>
+    <script src="js/active.js"></script>
     <script src="js/jRespond.min.js"></script>
     <script src="js/jquery.fitvids.js"></script>
     <script src="js/jquery.stellar.js"></script>
@@ -1021,6 +978,7 @@
     <script src="js/simple-scrollbar.min.js"></script>
     <script src="js/jquery.validate.min.js"></script>
     <script src='js/functions.js'></script>
+
 
 </body>
 
