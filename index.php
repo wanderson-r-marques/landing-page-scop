@@ -136,73 +136,75 @@
 
                             <br><br>
                         </div><!-- .col-md-12 end -->
-                        <div class="col-md-3 col-sm-6">
 
-                            <div class="box-info box-service-1 mb-md-40">
-                                <div class="box-icon">
-                                    <span class="icon">A</span>
-                                </div><!-- .box-icon end -->
-                                <div class="box-content">
-                                    <h4><a href="javascript:;">ESTUDO MERCADO/ Planejamento
-                                        </a></h4>
-                                    <p>
-                                        Antes de qualquer coisa, Briefing > estudo de mercado (Marketing Raiz, persona) e o planejamento com as estratégias que será apresentado no kickoff
+                        <div class="container flex flex-wrap">
 
-                                    </p>
-                                </div><!-- .box-content end -->
-                            </div><!-- .box-info box-service-1 end -->
+                            <div class="col-md-3 col-sm-6">
 
-                        </div><!-- .col-md-3 -->
-                        <div class="col-md-3 col-sm-6">
+                                <div class="box-info box-service-1 mb-md-40">
+                                    <img src="images/m-01.png" alt="Métodos">
+                                    <!-- .box-icon end -->
+                                    <div class="box-content">
+                                        <h4><a href="javascript:;">ESTUDO MERCADO/ Planejamento
+                                            </a></h4>
+                                        <p>
+                                            Antes de qualquer coisa, Briefing > estudo de mercado (Marketing Raiz, persona) e o planejamento com as estratégias que será apresentado no kickoff
 
-                            <div class="box-info box-service-1 mb-md-40">
-                                <div class="box-icon">
-                                    <span class="icon">B</span>
-                                </div><!-- .box-icon end -->
-                                <div class="box-content">
-                                    <h4><a href="javascript:;">TRÁFEGO PAGO (Anúncios na Internet)
+                                        </p>
+                                    </div><!-- .box-content end -->
+                                </div><!-- .box-info box-service-1 end -->
 
-                                        </a></h4>
-                                    <p>
-                                        Momento que os anúncios começam a aparecer para as pessoas na internet
+                            </div><!-- .col-md-3 -->
+                            <div class="col-md-3 col-sm-6">
 
-                                    </p>
-                                </div><!-- .box-content end -->
-                            </div><!-- .box-info box-service-1 end -->
+                                <div class="box-info box-service-1 mb-md-40">
+                                    <img src="images/m-02.png" alt="Métodos">
+                                    <!-- .box-icon end -->
+                                    <div class="box-content">
+                                        <h4><a href="javascript:;">TRÁFEGO PAGO (Anúncios na Internet)
 
-                        </div><!-- .col-md-3 -->
-                        <div class="col-md-3 col-sm-6">
+                                            </a></h4>
+                                        <p>
+                                            Momento que os anúncios começam a aparecer para as pessoas na internet
 
-                            <div class="box-info box-service-1 mb-sm-40">
-                                <div class="box-icon">
-                                    <span class="icon">C</span>
-                                </div><!-- .box-icon end -->
-                                <div class="box-content">
-                                    <h4><a href="javascript:;">ENGAJAMENTO
-                                        </a></h4>
-                                    <p>
-                                        Trabalho para as pessoas se engajarem com a sua marca
+                                        </p>
+                                    </div><!-- .box-content end -->
+                                </div><!-- .box-info box-service-1 end -->
 
-                                    </p>
-                                </div><!-- .box-content end -->
-                            </div><!-- .box-info box-service-1 end -->
+                            </div><!-- .col-md-3 -->
+                            <div class="col-md-3 col-sm-6">
 
-                        </div><!-- .col-md-3 -->
-                        <div class="col-md-3 col-sm-6">
+                                <div class="box-info box-service-1 mb-sm-40">
+                                    <img src="images/m-03.png" alt="Métodos">
+                                    <!-- .box-icon end -->
+                                    <div class="box-content">
+                                        <h4><a href="javascript:;">ENGAJAMENTO
+                                            </a></h4>
+                                        <p>
+                                            Trabalho para as pessoas se engajarem com a sua marca
 
-                            <div class="box-info box-service-1">
-                                <div class="box-icon">
-                                    <span class="icon">D</span>
-                                </div><!-- .box-icon end -->
-                                <div class="box-content">
-                                    <h4><a href="javascript:;">Venda</a></h4>
-                                    <p>
-                                        Nesse momento a VENDA ocorre
-                                    </p>
-                                </div><!-- .box-content end -->
-                            </div><!-- .box-info box-service-1 end -->
+                                        </p>
+                                    </div><!-- .box-content end -->
+                                </div><!-- .box-info box-service-1 end -->
 
-                        </div><!-- .col-md-3 -->
+                            </div><!-- .col-md-3 -->
+                            <div class="col-md-3 col-sm-6">
+
+                                <div class="box-info box-service-1">
+                                    <img src="images/m-04.png" alt="Métodos">
+                                    <!-- .box-icon end -->
+                                    <div class="box-content">
+                                        <h4><a href="javascript:;">Venda</a></h4>
+                                        <p>
+                                            Nesse momento a VENDA ocorre
+                                        </p>
+                                    </div><!-- .box-content end -->
+                                </div><!-- .box-info box-service-1 end -->
+
+                            </div><!-- .col-md-3 -->
+
+                        </div>
+
 
                     </div><!-- .row end -->
                     <br><br>
@@ -210,9 +212,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1">
-                                <div class="box-icon">
-                                    <span class="icon">E</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/m-02.png" alt="Métodos">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">Retenção</a></h4>
                                     <p>
@@ -252,9 +253,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1 mb-md-40">
-                                <div class="box-icon">
-                                    <span class="icon">I</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/instagram.png" alt="Instagram">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">INSTAGRAM
                                         </a></h4>
@@ -265,9 +265,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1 mb-md-40">
-                                <div class="box-icon">
-                                    <span class="icon">F</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/facebook.png" alt="Instagram">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">FACEBOOK
 
@@ -280,9 +279,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1 mb-sm-40">
-                                <div class="box-icon">
-                                    <span class="icon">Y</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/youtube.png" alt="Instagram">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">YOUTUBE
                                         </a></h4>
@@ -294,9 +292,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1">
-                                <div class="box-icon">
-                                    <span class="icon">L</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/linkedin.png" alt="Instagram">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">LINKEDIN</a></h4>
 
@@ -311,9 +308,8 @@
                         <div class="col-md-3 col-sm-6">
 
                             <div class="box-info box-service-1">
-                                <div class="box-icon">
-                                    <span class="icon">G</span>
-                                </div><!-- .box-icon end -->
+                                <img src="images/google.png" alt="Instagram">
+                                <!-- .box-icon end -->
                                 <div class="box-content">
                                     <h4><a href="javascript:;">GOOGLE ADS</a></h4>
 
@@ -327,9 +323,6 @@
             </div><!-- .section-content end -->
 
         </div><!-- .section-flat end -->
-
-
-
 
 
         <!-- === Section Some Facts 1 =========== -->
@@ -717,7 +710,6 @@
                                                     Pra quem o serviço de Gestão de Tráfego é indicado?
                                                 </a>
                                                 <p class="accordion-content">
-                                                    Lorem ipsum dolor sit amet, consectetur
                                                     Pra qualquer empresa que tenha o objetivo de receber mais visitas, conseguir mais clientes e aumentar a visibilidade da sua marca. O Facebook Ads funciona para qualquer negócio que siga sua Políticas de Publicidade
                                                 </p>
                                             </li>
@@ -817,16 +809,17 @@
                                                     Quanto custa os serviços de Gestão de Tráfego?
                                                 </a>
                                                 <p class="accordion-content">
-                                                    Muito mais barato do que agências e com um atendimento personalizado. O preço varia de acordo com o investimento, prazos e complexidades dos projetos de cada cliente. Tenho planos a partir de R$ 500,00/mês.
+                                                    Nossos clientes são únicos, cada um tem sua particularidade. Devido a isso, primeiramente fazemos uma reunião sem compromisso para entender o negócio e a necessidade do nosso futuro cliente, e após análise passamos uma proposta com os serviços e os valores.
+                                                    <br>Mas podem ficar tranquilo que o valor é muito menor do que a entrega.
                                                 </p>
                                             </li>
                                             <li class="accordion-item">
                                                 <a class="accordion-title" href="javascript:void(0)">
                                                     <i class="icon">?</i>
-                                                    Como faço para contratar o Vinicius como Gestor de Tráfego?
+                                                    Como faço para contratar?
                                                 </a>
                                                 <p class="accordion-content">
-                                                    Clique no botão abaixo e entre contato comigo diretamente pelo Whatsapp.
+                                                    Clique no botão abaixo e entre em contato com um de nossos especialistas.
                                                 </p>
                                             </li>
                                         </ul>
@@ -958,8 +951,12 @@
         </footer><!-- #footer end -->
 
     </div><!-- #full-container end -->
-
-    <a class="scroll-top-icon scroll-top" href="javascript:;"><i class="fa fa-angle-up"></i></a>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <a href="https://wa.me/5511984450207?text=Ol%C3%A1%2C%20estou%20entrando%20em%20contato%20para%20maiores%20informa%C3%A7%C3%B5es%20sobre%20como%20posso%20vender%20mais%20atrav%C3%A9s%20da%20internet." style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+  z-index:1000;" target="_blank">
+        <i style="margin-top:16px" class="fa fa-whatsapp"></i>
+    </a>
+    <!-- <a class="scroll-top-icon scroll-top" href="javascript:;"><i class="fa fa-angle-up"></i></a> -->
 
     <!-- External JavaScripts
 	============================================= -->
