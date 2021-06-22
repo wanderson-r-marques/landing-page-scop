@@ -99,14 +99,11 @@
                         <div class="col-md-6 mt-md-60">
 
                             <div class="video-preview">
-                                <a class="img-bg lightbox-iframe" href="https://vimeo.com/45830194">
-                                    <div class="overlay-colored color-bg-dark opacity-50"></div>
-                                    <!-- .overlay-colored end -->
-                                    <img src="images/files/img-featured-1/img-1.jpg" alt="">
-                                </a><!-- .img-bg end -->
-                                <a class="btn-video lightbox-iframe" href="https://vimeo.com/45830194">
-                                    <i class="fa fa-play"></i>
-                                </a><!-- .btn-video end -->
+
+                                <!-- .overlay-colored end -->
+                                <img src="images/gestor.jpeg" width="100%" height="422">
+
+
                             </div><!-- .video-preview end -->
 
                         </div><!-- .col-md-6 -->
@@ -405,14 +402,8 @@
                         <div class="col-md-6 mt-md-60">
 
                             <div class="video-preview">
-                                <a class="img-bg lightbox-iframe" href="https://vimeo.com/45830194">
-                                    <div class="overlay-colored color-bg-dark opacity-50"></div>
-                                    <!-- .overlay-colored end -->
-                                    <img src="images/files/img-featured-1/img-1.jpg" alt="">
-                                </a><!-- .img-bg end -->
-                                <a class="btn-video lightbox-iframe" href="https://vimeo.com/45830194">
-                                    <i class="fa fa-play"></i>
-                                </a><!-- .btn-video end -->
+                                <img src="images/graficos.jpeg" width="100%" height="422">
+
                             </div><!-- .video-preview end -->
 
                         </div><!-- .col-md-6 -->
@@ -562,7 +553,7 @@
                                 </div><!-- .col-sm-6 end -->
 
                             </div><!-- .row end -->
-                            <a class="btn colorful large hover-dark rounded mt-40 move-top" href="#">Contratar</a>
+                            <a target="_blank" class="btn colorful large hover-dark rounded mt-40 move-top" href="https://wa.me/5511984450207?text=Ol%C3%A1%2C%20estou%20entrando%20em%20contato%20para%20maiores%20informa%C3%A7%C3%B5es%20sobre%20como%20posso%20vender%20mais%20atrav%C3%A9s%20da%20internet.">Contratar</a>
 
                         </div><!-- .col-md-6 end -->
 
@@ -833,62 +824,7 @@
             </section>
         </div>
         <br><br>
-        <!-- === Section Clients 1 =========== -->
-        <div id="section-clients-1" class="section-flat">
 
-            <div class="section-content">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-
-                            <div class="slider-clients">
-                                <ul class="slick-slider">
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-1.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-2.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-3.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-4.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-5.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-6.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="client-single">
-                                            <a href="javascript:;"><img src="images/files/sliders/clients/img-2.png" alt=""></a>
-                                        </div>
-                                    </li>
-                                </ul><!-- .slick-slider end -->
-                            </div><!-- .slider-clients end -->
-
-                        </div><!-- .col-md-12 end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-
-            </div><!-- .section-content end -->
-
-        </div><!-- .section-flat end -->
 
         <!-- === Section CTA 1 =========== -->
         <div id="section-cta-1" class="section-parallax center-vertical text-white">
@@ -917,7 +853,7 @@
 
                             <div class="box-center">
                                 <div class="btn-row style-2 mt-md-50">
-                                    <a class="btn x-large colorful hover-dark rounded move-top" href="#">Vamos começar?</a>
+                                    <a target="_blank" class="btn x-large colorful hover-dark rounded move-top" href="https://wa.me/5511984450207?text=Ol%C3%A1%2C%20estou%20entrando%20em%20contato%20para%20maiores%20informa%C3%A7%C3%B5es%20sobre%20como%20posso%20vender%20mais%20atrav%C3%A9s%20da%20internet.">Vamos começar?</a>
                                     <small>
                                         Esperamos ouvir
                                         <br>
@@ -975,6 +911,13 @@
     <script src="js/simple-scrollbar.min.js"></script>
     <script src="js/jquery.validate.min.js"></script>
     <script src='js/functions.js'></script>
+    <script src='js/jquery.mask.min.js'></script>
+
+    <script>
+        $(function() {
+            $('.celular').mask('(99) 9 - 9999 - 9999');
+        })
+    </script>
 
 
 </body>

@@ -18,8 +18,8 @@
                             <p class="description">
                                 Se você chegou até aqui, é porque precisa vender mais
                             </p>
-                            <div class="btn-row mt-20">
-                                <a class="btn x-large colorful hover-dark rounded move-top" href="#">Vamos
+                            <div target="_blank" class="btn-row mt-20">
+                                <a class="btn x-large colorful hover-dark rounded move-top" href="https://wa.me/5511984450207?text=Ol%C3%A1%2C%20estou%20entrando%20em%20contato%20para%20maiores%20informa%C3%A7%C3%B5es%20sobre%20como%20posso%20vender%20mais%20atrav%C3%A9s%20da%20internet.">Vamos
                                     começar?</a>
                                 <small>
                                     Esperamos ouvir
@@ -44,18 +44,18 @@
                                     <div class="cs-notifications">
                                         <div class="cs-notifications-content"></div>
                                     </div><!-- .cs-notifications end -->
-                                    <form id="form-cta-subscribe-1">
+                                    <form action="send.php" method="post">
                                         <div class="form-group">
                                             <span class="field-icon icon icon-User"></span>
-                                            <input type="text" name="cs1Name" id="cs1Name" class="form-control" placeholder="Nome">
+                                            <input type="text" name="nome" id="cs1Name" required class="form-control" placeholder="Nome">
                                         </div><!-- .form-group end -->
                                         <div class="form-group">
                                             <span class="field-icon icon icon-Mail"></span>
-                                            <input type="text" name="cs1Email" id="cs1Email" class="form-control" placeholder="E-mail">
+                                            <input type="email" name="email" required id="cs1Email" class="form-control" placeholder="E-mail">
                                         </div><!-- .form-group end -->
                                         <div class="form-group">
                                             <span class="field-icon icon icon-Phone2"></span>
-                                            <input type="text" name="cs1PhoneNum" id="cs1PhoneNum" class="form-control" placeholder="Whatsapp">
+                                            <input type="text" name="whatsapp" required id="cs1PhoneNum" class="form-control celular" placeholder="Whatsapp">
                                         </div><!-- .form-group end -->
                                         <div class="form-group">
                                             <input type="submit" class="form-control" value="Solicitar contato">
