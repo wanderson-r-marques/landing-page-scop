@@ -1,6 +1,5 @@
-# Agendamento de monitoria
-> **Sistema desenvolvido para aprendizado na graduação** <br>
-O sistema realiza agendamento para monitoria de alunos. Perrmite verificação e bloqueio de datas disponíveis.
+# Landing Page do Grupo Scop
+> **Site desenvolvido como freelancer** <br>
 
 ## Visualização
 
